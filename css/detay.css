@@ -1,0 +1,35 @@
+ul {
+    list-style-type: none;
+    flex: 1;
+}
+
+#dateUl li {
+    display: inline;
+}
+
+#timeAndIcon {
+    display: flex;
+    flex-direction: row;
+}
+
+#btn {
+    background: transparent;
+    border: 0;
+}
+
+#yaziBaslik {
+    display: flex;
+    flex-direction: column;
+
+}
+
+.yaziBaslik {
+    font: var(--post-titleFont, var(--wix-font-Page-title));
+    font-size: var(--post-titleFont-size, 40px);
+    line-height: normal;
+}
+
+.yaziImg {
+    width: 100%;
+    height: 100%;
+}

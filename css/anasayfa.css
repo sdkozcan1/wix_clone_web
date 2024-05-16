@@ -1,0 +1,152 @@
+a {
+    text-decoration: none;
+    color: black !important;
+}
+
+ul.footerUl li {
+    list-style-type: none;
+    margin-top: 12px;
+    width: 100%;
+
+}
+
+ul.footerSocialMediaUl li {
+    display: inline;
+}
+
+.footerSocialMediaUl {
+    i {
+        font-size: 25px;
+    }
+}
+
+ul.footerKullanimKosullari li {
+    display: inline;
+
+}
+
+.footerKullanimKosullari li {
+    margin-left: 25px;
+}
+
+.footerSocialMediaUl li {
+    margin-left: 15px;
+
+}
+
+
+
+.footeruL2 {
+    margin-top: 30px;
+
+}
+
+ul.footerUl2 li {
+    list-style-type: none;
+    gap: 6px;
+
+}
+
+
+
+ul.footerUl p {
+    font-weight: 500;
+    font-size: 16px;
+}
+
+.btnKendiSiteniOlustur {
+    background-color: black;
+    color: white;
+
+}
+
+.footerA {
+    font-size: 14px;
+    line-height: 24px;
+    display: flex;
+    align-items: center;
+    width: fit-content;
+    font-family: "Madefor-Text", "Madefor", "Helvetica Neue", Helvetica, Arial, メイリオ, Meiryo, "ヒラギノ角ゴ Pro W3", "Hiragino Kaku Gothic Pro W3", "Hiragino Kaku Gothic Pro", sans-serif !important;
+    font-weight: 400;
+    color: #000;
+    text-decoration: none;
+    text-align: left;
+    border: none;
+    margin: 0;
+    padding: 0;
+
+}
+
+.blogCardText {
+    font-size: 22px;
+    -webkit-line-clamp: 3;
+    -webkit-box-orient: vertical;
+    display: -webkit-box;
+    overflow: hidden;
+}
+
+.btn {
+    border: 1px solid black;
+    border-radius: 40px;
+}
+
+.btnAboneOl:hover {
+    background-color: black;
+    color: white;
+}
+
+.ustnavbar {
+    align-items: center;
+}
+
+.btncol {
+    text-align: end;
+}
+
+.blogcardTitleCol {
+    display: flex;
+    flex-direction: column;
+
+}
+
+.blogCardTitleA {
+    width: 460px;
+    flex: 1;
+}
+
+.blogCardImg {
+    width: 100%;
+    height: 100%;
+
+}
+
+.blogCardTitle {
+    font-size: 42px;
+    color: black;
+}
+
+.devaminiOkuText {
+    color: black;
+}
+
+.anasayfaHeader {
+    position: sticky;
+    top: 0px;
+    background-color: white;
+    z-index: 999999;
+}
+
+.blogMainCardUl li {
+    display: inline;
+}
+
+.blogMainCardUl {
+    padding-left: 0rem;
+}
+
+.blogCardTimeDiv {
+    padding-top: 15px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
